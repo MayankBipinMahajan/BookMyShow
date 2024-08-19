@@ -6,7 +6,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane; 
 
-public class BookMyShow_MainFrame extends javax.swing.JFrame {
+public class BookMyShow_MainFrame extends javax.swing.JFrame{
     float GSTAmount = 0.0f , GrossAmount = 0.0f ;
     String user_name , check_gross , seat_type,no_seats,food_item,no_food,GSTstring,GrossString,icon_path;
     public BookMyShow_MainFrame(String user_name) {
